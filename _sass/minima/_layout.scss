@@ -1,19 +1,19 @@
-$ss-font-family: Source Sans Pro, "Lucida Sans Unicode", "Lucida Grande", sans-serif;;
-$lighter-text-color: #666;
-$striders-green:   #006335;
-$striders-red:     #bc1522;
-$dark-green: darken($striders-green, 50%);
-$nav-background-color: $striders-green;
-$nav-dark-green:   $striders-green;
-$nav-light-green:  lighten($striders-green, 15%);
-$nav-item-color:   #fff;
-$nav-hover-color: $dark-green;
-$header-dark-color: rgba(16, 17, 18, 1);
-$header-light-color: rgba(16, 17, 18, 0);
-$pre-footer-background-color: $striders-green;
-$pre-footer-text-color: #efe;
+$ss-font-family:                    Source Sans Pro, "Lucida Sans Unicode", "Lucida Grande", sans-serif;;
+$lighter-text-color:                #666;
+$striders-green:                    #006335;
+$striders-red:                      #bc1522;
+$dark-green:                        darken($striders-green, 50%);
+$nav-background-color:              $striders-green;
+$nav-dark-green:                    darken($striders-green, 5%);
+$nav-light-green:                   lighten($striders-green, 15%);
+$nav-item-color:                    #fff;
+$nav-hover-color:                   $dark-green;
+$header-dark-color:                 rgba(16, 17, 18, 1);
+$header-light-color:                rgba(16, 17, 18, 0);
+$pre-footer-background-color:       $striders-green;
+$pre-footer-text-color:             #efe;
 $pre-footer-input-background-color: $dark-green;
-$pre-footer-submit-button-color: darken($striders-green, 25%);
+$pre-footer-submit-button-color:    darken($striders-green, 25%);
 
 body {
   background-color: #eee;
