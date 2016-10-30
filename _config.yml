@@ -19,8 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Public website of Spa Striders, a friendly running club based in Leamington
   Spa
 baseurl: "/public-website" # the subpath of your site, e.g. /blog
-#url: "http://spastriders.co.uk" # the base hostname & protocol for your site
-url: "http://spa-striders.github.io" # the base hostname & protocol for your site
+url: "https://spa-striders.github.io" # the base hostname & protocol for your site
 github_username: timdown
 repository: spa-striders/public-website
 
