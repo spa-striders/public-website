@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import "../fonts/source-sans-pro/source-sans-pro.css";
+
+/*
+$base-source-sans-font-dir: "../fonts/source-sans-pro/";
+
+@mixin embed-font($font-filename, $weight, $style, $stretch){
+  @font-face {
+    font-family: "Source Sans Pro";
+    font-weight: $weight;
+    font-style: $style;
+    font-stretch: $stretch;
+    src: url($base-source-sans-font-dir + "EOT/" + $font-filename + ".eot");
+    src: url($base-source-sans-font-dir + "EOT/" + $font-filename + ".eot?#iefix") format('embedded-opentype'),
+         url($base-source-sans-font-dir + "WOFF/OTF/" + $font-filename + ".otf.woff") format('woff'),
+         url($base-source-sans-font-dir + "TTF/" + $font-filename + ".ttf") format('truetype');
+  }
+}
+
+@include embed-font("SourceSansPro-ExtraLight", 200, normal, normal);
+@include embed-font("SourceSansPro-ExtraLightIt", 200, italic, normal);
+@include embed-font("SourceSansPro-Light", 300, normal, normal);
+@include embed-font("SourceSansPro-LightIt", 300, italic, normal);
+@include embed-font("SourceSansPro-Regular", 400, normal, normal);
+@include embed-font("SourceSansPro-It", 400, italic, normal);
+@include embed-font("SourceSansPro-Semibold", 600, normal, normal);
+@include embed-font("SourceSansPro-SemiboldIt", 600, italic, normal);
+@include embed-font("SourceSansPro-Bold", 700, normal, normal);
+@include embed-font("SourceSansPro-BoldIt", 700, italic, normal);
+@include embed-font("SourceSansPro-Black", 900, normal, normal);
+@include embed-font("SourceSansPro-BlackIt", 900, italic, normal);
+*/
