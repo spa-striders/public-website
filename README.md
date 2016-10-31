@@ -3,4 +3,4 @@
 
 This is our public website README.
 
-This is Nick testing that it can be dited without cloning or anything. I just clicked the edit button.
+This is Nick testing that it can be edited without cloning or anything. I just clicked the edit button and then committed my changes.
