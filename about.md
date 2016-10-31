@@ -18,11 +18,11 @@ Look at this marvellous map:
 
 ## What we offer
 
-We have sessions mosts days. A typical week looks something like this:
+We have sessions most days. A typical week looks something like this:
 
-Monday: Club run  
+Monday: Social run  
 Tuesday: Tempo  
-Wednesday: Rotating delights  
+Wednesday: Rotating delights
 Thursday: Track  
 Friday: 6@6  
 Saturday: Parkrun plus
